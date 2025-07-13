@@ -1,1 +1,1 @@
-# Skincare-e-commerce-web-appl
+# Skincare-e-commerce-web-app
